@@ -29,7 +29,7 @@
 - Help build and maintain strong relationships with clients by understanding their needs, offering solutions, and addressing any concerns or issues they may have.
 
 ## Projects
-**Community manager for cryptocurrency projects (_2021_)
+**Community manager for cryptocurrency projects (_2021_)**
 - Engage & Grow Community: Foster active discussions, answer queries and build relationships across social media and forums.
 - Content Creation & Sharing: Develop and share project updates, announcements, and educational materials.
 
