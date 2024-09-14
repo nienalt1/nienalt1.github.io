@@ -4,11 +4,12 @@
 
 ## Education		
 - M.S., Management Information, Digital Transformation | NOVA IMS Information Management School | Portugal (_Sep 2024 - Jul 2025_)
-- B.S., Exchange student                               | HEC Lausanne | Swizterland (_Feb-Jul 2022_)		        		
+- B.S., Exchange student | HEC Lausanne | Swizterland (_Feb-Jul 2022_)		        		
 - B.S., Global Business, Finance and Governance | Warsaw School of Economics | Poland (_Nov 2023_)
 
 ## Work Experience
-**Senior Content Reviewer @ Amazon, Czech Republic (_Nov 2022 - Jan 2024_)**
+**Senior Content Reviewer @ Amazon, Czech Republic 
+(_Nov 2022 - Jan 2024_)**
 - Analyzing trends and patterns in content submissions to identify potential areas for improvement in content policies or moderation processes.
 - Providing constructive feedback to content creators or sellers on how to improve their content.
 - Proactively identifying opportunities to streamline and improve content moderation processes, tools and workflows to enhance efficiency and effectiveness.
