@@ -1,2 +1,11 @@
-# nienalt1.github.io
-portfolio
+# Data
+
+### Education
+-SGh
+
+-NOva
+
+### Work Experience
+-AMazon
+
+-Lala
