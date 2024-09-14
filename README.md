@@ -1,11 +1,31 @@
-# Data
+# Information Management
 
-### Education
--SGh
+#### Technical Skills: MySQL, SQL, Adobe (Photoshop, Indesign), Tableau
 
--NOva
+## Education		
+- M.S., Management Information, Digital Transformation | NOVA IMS Information Management School (_Sep 2024 - Jul 2025_)
+- B.S., Exchange student | HEC Lausanne | Swizterland (_Feb-Jul 2022_)		        		
+- B.S., Global Business, Finance and Governance | Warsaw School of Economics | Poland (_Nov 2023_)
 
-### Work Experience
--AMazon
+## Work Experience
+**Senior Content Reviewer @ Amazon, Czech Republic (_Nov 2022 - Jan 2024_)**
+- Analyzing trends and patterns in content submissions to identify potential areas for improvement in content policies or moderation processes.
+- Providing constructive feedback to content creators or sellers on how to improve their content.
+- Proactively identifying opportunities to streamline and improve content moderation processes, tools and workflows to enhance efficiency and effectiveness.
 
--Lala
+**Quality Assurance Engineer Intern @ Luxoft, Poland (_Sep 2023 - Nov_2023)**
+- Perform comprehensive quality control and testing of 2D/3D images and video to ensure the accuracy and reliability of the AI algorithm.
+- Analyze and verify digital map data to ensure application consistency and reliability.
+- Conduct testing and assess software functionality to identify defects and ensure compliance with quality standards.
+
+**Data Collector @ INRIX, Swizterland (_Mar 2022 - Nov_2022)**
+- Gather, analyze, and validate traffic data.
+- Ensure data accuracy through quality control processes.
+- Collaborate with teams to develop predictive models.
+
+**Junior Account Manager @ Armac, Poland (_Jan 2020 - Jan_2022)**
+- Conduct market research to identify potential new clients or industry trends.
+- Assist in preparing proposals, quotes, or presentations for new business opportunities.
+- Help build and maintain strong relationships with clients by understanding their needs, offering solutions, and addressing any concerns or issues they may have.
+
+
