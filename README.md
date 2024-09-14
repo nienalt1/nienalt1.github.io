@@ -3,8 +3,8 @@
 #### Technical Skills: MySQL, SQL, Adobe (Photoshop, Indesign), Tableau
 
 ## Education		
-- M.S., Management Information, Digital Transformation - Portugal | NOVA IMS Information Management School | (_Sep 2024 - Jul 2025_)
-- B.S., Exchange student - Swizterland | HEC Lausanne | (_Feb-Jul 2022_)		        		
+- M.S., Management Information, Digital Transformation - Portugal | NOVA IMS Information Management School | (_Jul 2025_)
+- B.S., Exchange student - Swizterland | HEC Lausanne | (_Jul 2022_)		        		
 - B.S., Global Business, Finance and Governance - Poland | Warsaw School of Economics | (_Nov 2023_)
 
 ## Work Experience
@@ -29,7 +29,7 @@
 - Help build and maintain strong relationships with clients by understanding their needs, offering solutions, and addressing any concerns or issues they may have.
 
 ## Projects
-** Community manager for cryptocurrency projects (_2021_)
+**Community manager for cryptocurrency projects (_2021_)
 - Engage & Grow Community: Foster active discussions, answer queries and build relationships across social media and forums.
 - Content Creation & Sharing: Develop and share project updates, announcements, and educational materials.
 
