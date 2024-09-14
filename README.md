@@ -1,7 +1,3 @@
-dagtretrg
+# nienalt1.github.io
 
-fgd
-g
-dg
-d
-b
+# portfolio
