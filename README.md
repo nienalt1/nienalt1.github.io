@@ -21,7 +21,7 @@
 **Data Collector @ INRIX, Swizterland (_Mar 2022 - Nov_2022_)**
 - Gather, analyze, and validate traffic data.
 - Ensure data accuracy through quality control processes.
-- Collaborate with teams to develop predictive models.
+- Collaborate with teams to develop predictive models. 
 
 **Junior Account Manager @ Armac, Poland (_Jan 2020 - Jan_2022_)**
 - Conduct market research to identify potential new clients or industry trends.
